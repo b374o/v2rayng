@@ -27,16 +27,16 @@ your user & password is **admin**
 ```
 http://your-server-ip-address:54321
 ```
-##Translate to English
+--Translate to English
 if you use chrome you can press Right Click and select Translate  to English. 
----
+
 By following the steps below, you can change the port to enter the panel.
--- Go to your server shel & Eneter The below code:
+ Go to your server shel & Eneter The below code:
 ```
 x-ui
 ```
--- Enter the 16 and press enter
---Enter a number to change yor login port. For example : 443, 1234, 743 or any number. press enter to change port.
+Enter the 16 and press enter
+Enter a number to change yor login port. For example : 443, 1234, 743 or any number. press enter to change port.
 ---
-for change username and password to login go to x ui panel
---go to setting>
+-for change username and password to login go to x ui panel
+-go to setting>
